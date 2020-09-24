@@ -13,8 +13,6 @@
     </asp:PlaceHolder>
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <link href="Content/bootstrap-origin.min.css" rel="stylesheet" />
-    <link href="Content/bootstrap-origin.css" rel="stylesheet" />
 </head>
 <body>
     <form runat="server">
@@ -84,7 +82,7 @@
             <asp:ListView ID="categoryList" ItemType="WingtipToys.Models.Category" runat="server" SelectMethod="GetCategories">
                 <ItemTemplate>
                     <b style="font-size:large; font-style:normal">
-                        <a href="~/ProductList.aspx?id=<%#: Item.CategoryID %>">
+                        <a href="/ProductList.aspx?id=<%#: Item.CategoryID %>">
                             <%#: Item.CategoryName %>
                         </a>
                     </b>
