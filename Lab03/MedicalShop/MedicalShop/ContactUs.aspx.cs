@@ -13,5 +13,10 @@ namespace MedicalShop
         {
 
         }
+
+        protected void btnSubmit_Click(object sender, EventArgs e)
+        {
+            lblMessage.Text = "Thank you for your feedback";
+        }
     }
 }
