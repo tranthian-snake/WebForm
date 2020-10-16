@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "jenlooper-cactus",
+    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
+    "Name": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
+    "Price": 12.5
+  },
+  {
+    "Id": "jenlooper-light",
+    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+    "Name": "A beautiful switch-on book light",
+    "Price": 23.7
+  },
+  {
+    "Id": "jenlooper-lightshow",
+    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+    "Name": "Bling your Laptop with an Internet-Connected Light Show",
+    "Price": 23.0
+  },
+  {
+    "Id": "jenlooper-survival",
+    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg",
+    "Name": "Create a Compact Survival Kit with LED Track Lighting",
+    "Price": 45.9
+  },
+  {
+    "Id": "sailorhg-bubblesortpic",
+    "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png",
+    "Name": "Bubblesort Visualization",
+    "Price": 14.9
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "img": "https://user-images.githubusercontent.com/41929050/61567055-142c1c80-aa33-11e9-96ff-9fbac6413625.png",
+    "Name": "Light-up Corsage",
+    "Price": 4.5
+  },
+  {
+    "Id": "sailorhg-kit",
+    "img": "https://user-images.githubusercontent.com/41929050/61567056-142c1c80-aa33-11e9-8682-10065d338145.png",
+    "Name": "Pastel hardware kit",
+    "Price": 78.9
+  },
+  {
+    "Id": "sailorhg-led",
+    "img": "https://user-images.githubusercontent.com/41929050/61567052-13938600-aa33-11e9-9a88-cd842073ba44.jpg",
+    "Name": "Heart-shaped LED",
+    "Price": 10.0
+  },
+  {
+    "Id": "selinazawacki-soi-shirt",
+    "img": "https://user-images.githubusercontent.com/41929050/61567060-142c1c80-aa33-11e9-8188-5a4803844a9e.png",
+    "Name": "Black Sweatshirt",
+    "Price": 5.8
+  },
+  {
+    "Id": "selinazawacki-soi-pins",
+    "img": "https://ih1.redbubble.net/image.1180678981.0354/ur,pin_large_front,square,600x600.jpg",
+    "Name": "Sick of the Internet Pins",
+    "Price": 36.0
+  },
+  {
+    "Id": "vogueandcode-hipster-dev-bro",
+    "img": "https://user-images.githubusercontent.com/41929050/61567061-14c4b300-aa33-11e9-9fee-63ff2c0c9823.png",
+    "Name": "Hipster Dev",
+    "Price": 4.6
+  },
+  {
+    "Id": "vogueandcode-pretty-girls-code-tee",
+    "img": "https://user-images.githubusercontent.com/41929050/61567062-14c4b300-aa33-11e9-9dcd-8bfed4ece810.png",
+    "Name": "Pretty Girls Code Tee",
+    "Price": 47.1
+  },
+  {
+    "Id": "vogueandcode-ruby-sis-2",
+    "img": "https://user-images.githubusercontent.com/41929050/61567063-14c4b300-aa33-11e9-8515-bcb866da9ea3.png",
+    "Name": "Ruby Sis",
+    "Price": 33.3
+  },
+  {
+    "Id": "selinazawacki-moon",
+    "img": "https://cdn.shopify.com/s/files/1/1344/5269/products/product-image-79831294_grande.jpg?v=1571303915",
+    "Name": "Holographic Dark Moon Necklace",
+    "Price": 19.0
+  },
+  {
+    "Id": "selinazawacki-shirt",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "Name": "Floppy Crop",
+    "Price": 89.2
+  }
+]

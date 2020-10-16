@@ -1,0 +1,13 @@
+﻿@page
+@model IndexModel
+@using ProductManager.Components
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="margin-bottom: 50px">Product Manager</h1>
+</div>
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
